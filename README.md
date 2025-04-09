@@ -1,6 +1,3 @@
-# SepsisRiskPred
-This model was trained exclusively on patients with traumatic brain injury (TBI). Predictions may not generalize to other patient populations
-
 # Sepsis Risk Predictor for TBI Patients
 
 This Streamlit app uses a machine learning model (Random Forest) to predict the risk of sepsis in patients with traumatic brain injury (TBI).
